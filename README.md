@@ -1,4 +1,4 @@
-Pothole Tracker Web Application
+# Pothole Tracker Web Application
 
 This is a full stack web app created with the following technologies :
 
